@@ -6,9 +6,6 @@
 </p>
 
 
-뭔가 예전에 한거 : https://gitlab.com/hd1534
-
-
 
 
 
