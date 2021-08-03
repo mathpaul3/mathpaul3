@@ -4,10 +4,10 @@
 #### Department of English & Chinese, IFLHS 34th
 
 ### <div align="center">
-  <div>[![mathpaul3's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathpaul3&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)</div>
-  <div>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathpaul3&langs_count=30&layout=compact&hide=html,css&card_width=317)](https://github.com/anuraghazra/github-readme-stats)</div>
+  [![mathpaul3's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathpaul3&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathpaul3&langs_count=30&layout=compact&hide=html,css&card_width=317)](https://github.com/anuraghazra/github-readme-stats)
   <div>Since May 7 2021...</div> 
-  <p>[![mathpaul3's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@mathpaul3&v=2)](https://github.com/anuraghazra/github-readme-stats)</p>
+  [![mathpaul3's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@mathpaul3&v=2)](https://github.com/anuraghazra/github-readme-stats)
   <div><img src="https://github.githubassets.com/images/mona-whisper.gif" title="mona-whisper"></div>
 </div>
 
