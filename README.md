@@ -6,8 +6,8 @@
 <br>
 
 ### Working History
-#### >>> `Python Lecturer` at `유닛소프트코딩강남학원`
 #### >>> `Developer` at `(주)유닛스터디`
+#### `Python Lecturer` at `유닛소프트코딩강남학원`
 <br>
 
 ### My programming stats <br>
