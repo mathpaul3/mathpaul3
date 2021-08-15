@@ -26,14 +26,14 @@
   
   
 ### Academic career
-#### >>> Department of AI convergence, Soongsil Univ. (student representative)
-> Department of Hacking Defense, KDMHS 17th\
- Department of English & Chinese, IFLHS 34th
+#### >>> Department of AI convergence, Soongsil Univ. (student representative) (2021 ~ )
+> Department of Hacking Defense, KDMHS 17th (2019 ~ 2021)\
+ Department of English & Chinese, IFLHS 34th (2018 ~ 2019)
 <br>
 
 ### Working History
-#### >>> `Developer` at **_(주)유닛스터디_**
-> `Python Lecturer` at **_유닛소프트코딩강남학원_**
+#### >>> `Developer` at **_(주)유닛스터디_** (2021 ~ )
+> `Python Lecturer` at **_유닛소프트코딩강남학원_** (2021 ~ 2021)
 <br>
 
 
