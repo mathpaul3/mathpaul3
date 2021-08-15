@@ -15,7 +15,7 @@
   <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" width="30px;" height="30px" />
   <img src="https://github.com/mathpaul3/mathpaul3/blob/main/mongodb.svg" width="30px;" height="30px" />
   <img src="https://github.com/mathpaul3/mathpaul3/blob/main/mysql.png" width="30px;" height="30px" />
-  <img src="https://github.com/mathpaul3/mathpaul3/blob/main/linux.svg" width="30px;" height="30px" />
+  <img src="https://github.com/mathpaul3/mathpaul3/blob/main/linux.png" width="30px;" height="30px" />
 <span />
   
 - 한국어(Korean) --- *native*
