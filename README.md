@@ -1,17 +1,21 @@
 # About me
 
-### Available Languages
+### Available Skills
 <span>
   <img src="https://github.com/mathpaul3/mathpaul3/blob/main/Python.png" width="29px;" height="29px" />
   <img src="https://github.com/mathpaul3/mathpaul3/blob/main/C++.png" width="27px;" height="30px" />
   <img src="https://github.com/mathpaul3/mathpaul3/blob/main/C.png" width="34px;" height="34px" />
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="25px;" height="34px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="30px;" height="30px" />
+  <img src="https://github.com/mathpaul3/mathpaul3/blob/main/react.svg" width="30px;" height="30px" />
   <img src="https://github.com/mathpaul3/mathpaul3/blob/main/JavaScript.png" width="28px;" height="28px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="30px;" height="30px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="30px;" height="30px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" width="30px;" height="30px" />
   <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" width="30px;" height="30px" />
+  <img src="https://github.com/mathpaul3/mathpaul3/blob/main/mongodb.svg" width="30px;" height="30px" />
+  <img src="https://github.com/mathpaul3/mathpaul3/blob/main/mysql.png" width="30px;" height="30px" />
+  <img src="https://github.com/mathpaul3/mathpaul3/blob/main/linux.svg" width="30px;" height="30px" />
 <span />
   
 - 한국어(Korean) --- *native*
