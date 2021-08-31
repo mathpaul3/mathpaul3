@@ -16,6 +16,8 @@
   <img src="https://github.com/mathpaul3/mathpaul3/blob/main/mongodb.svg" width="30px;" height="30px" />
   <img src="https://github.com/mathpaul3/mathpaul3/blob/main/mysql.png" width="30px;" height="30px" />
   <img src="https://github.com/mathpaul3/mathpaul3/blob/main/linux.png" width="30px;" height="30px" />
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" width="30px" height="30px" />
+  <img src="https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png" width="25px" height="30px" />
 <span />
   
 - 한국어(Korean) --- *native*
