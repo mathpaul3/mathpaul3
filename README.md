@@ -18,6 +18,8 @@
   <img src="https://github.com/mathpaul3/mathpaul3/blob/main/linux.png" width="30px;" height="30px" />
   <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" width="30px" height="30px" />
   <img src="https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png" width="25px" height="30px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="30px" height="30px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" width"30px" height="30px" />
 <span />
   
 - 한국어(Korean) --- *native*
@@ -27,6 +29,14 @@
 <br>
   
   
+### Interested in
+- Web development (full stack)
+- Competitive Programming
+- Natural Language Processing
+- Image Processing
+- 2D Game development
+<br>
+
 ### Academic career
 #### >>> Department of AI convergence, Soongsil Univ. (student representative) (2021 ~ )
 > Department of Hacking Defense, KDMHS 17th (2019 ~ 2021)\
