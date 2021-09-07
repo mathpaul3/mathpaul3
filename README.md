@@ -1,6 +1,6 @@
 # About me
 
-### Available Skills
+## Available Skills
 <span>
   <img src="https://github.com/mathpaul3/mathpaul3/blob/main/Python.png" width="29px;" height="29px" />
   <img src="https://github.com/mathpaul3/mathpaul3/blob/main/C++.png" width="27px;" height="30px" />
@@ -29,7 +29,7 @@
 <br>
   
   
-### Interested in
+## Interested in
 - Web development (full stack)
 - Competitive Programming
 - Natural Language Processing
@@ -37,19 +37,19 @@
 - 2D Game development
 <br>
 
-### Academic career
+## Academic career
 #### >>> Department of AI convergence, Soongsil Univ. (student representative) (2021 ~ )
 > Department of Hacking Defense, KDMHS 17th (2019 ~ 2021)\
  Department of English & Chinese, IFLHS 34th (2018 ~ 2019)
 <br>
 
-### Working History
+## Working History
 #### >>> `Developer` at **_(주)유닛스터디_** (2021 ~ )
 > `Python Lecturer` at **_유닛소프트코딩강남학원_** (2021 ~ 2021)
 <br>
 
 
-### My programming stats <br>
+## My programming stats <br>
   [![mathpaul3's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathpaul3&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathpaul3&langs_count=30&layout=compact&hide=html,css&card_width=317)](https://github.com/anuraghazra/github-readme-stats) <img src="https://github.githubassets.com/images/mona-whisper.gif" title="mona-whisper"> <br>
 #### Since May 7 2021... <br>
