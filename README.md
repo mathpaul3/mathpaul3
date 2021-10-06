@@ -11,6 +11,7 @@
   <img src="https://github.com/mathpaul3/mathpaul3/blob/main/JavaScript.png" width="28px;" height="28px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="30px;" height="30px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="30px;" height="30px" />
+  <img src="https://media.vlpt.us/images/gunu/post/bc263212-6fdf-4eff-858b-609203986264/sass.png" width="30px;" height="25px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" width="30px;" height="30px" />
   <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" width="30px;" height="30px" />
   <img src="https://github.com/mathpaul3/mathpaul3/blob/main/mongodb.svg" width="30px;" height="30px" />
@@ -45,7 +46,7 @@
 
 ## Working History
 #### >>> `Developer` at **_(주)유닛스터디_** (2021 ~ )
-> `Python Lecturer` at **_유닛소프트코딩강남학원_** (2021 ~ 2021)
+#### >>> `Python`, `Web Lecturer` at **_유닛소프트코딩강남학원_** (2021 ~ )
 <br>
 
 
