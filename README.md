@@ -39,7 +39,7 @@
 <br>
 
 ## Academic career
-#### >>> Department of AI convergence, Soongsil Univ. (student representative) (2021 ~ )
+#### >>> `Freshman representative` at Department of AI convergence, Soongsil Univ. (2021 ~ )
 > Department of Hacking Defense, KDMHS 17th (2019 ~ 2021)\
  Department of English & Chinese, IFLHS 34th (2018 ~ 2019)
 <br>
