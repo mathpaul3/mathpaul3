@@ -2,25 +2,28 @@
 
 ## Available Skills
 <span>
-  <img src="https://github.com/mathpaul3/mathpaul3/blob/main/Python.png" width="29px;" height="29px" />
-  <img src="https://github.com/mathpaul3/mathpaul3/blob/main/C++.png" width="27px;" height="30px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" width="33px;" height="33px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="27px;" height="30px;" />
   <img src="https://github.com/mathpaul3/mathpaul3/blob/main/C.png" width="34px;" height="34px" />
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="25px;" height="34px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="30px;" height="30px" />
-  <img src="https://github.com/mathpaul3/mathpaul3/blob/main/react.svg" width="30px;" height="30px" />
-  <img src="https://github.com/mathpaul3/mathpaul3/blob/main/JavaScript.png" width="28px;" height="28px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" width="30px;" height="30px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg" width="30px;" height="30px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="30px;" height="30px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="30px;" height="30px" />
-  <img src="https://media.vlpt.us/images/gunu/post/bc263212-6fdf-4eff-858b-609203986264/sass.png" width="30px;" height="25px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="30px;" height="25px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" width="30px;" height="30px" />
-  <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" width="30px;" height="30px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="30px;" height="30px" />
   <img src="https://github.com/mathpaul3/mathpaul3/blob/main/mongodb.svg" width="30px;" height="30px" />
-  <img src="https://github.com/mathpaul3/mathpaul3/blob/main/mysql.png" width="30px;" height="30px" />
-  <img src="https://github.com/mathpaul3/mathpaul3/blob/main/linux.png" width="30px;" height="30px" />
-  <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" width="30px" height="30px" />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-svg-vector.svg" width="40px;" height="40px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/NewTux.svg" width="27px;" height="30px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" width="25px" height="30px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="25px" height="30px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="30px" height="22px" />
   <img src="https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png" width="25px" height="30px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="30px" height="30px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" width"30px" height="30px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="30px" height="30px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width"30px" height="30px" />
+  
 <span />
   
 - 한국어(Korean) --- *native*
