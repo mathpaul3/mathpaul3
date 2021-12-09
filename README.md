@@ -58,7 +58,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathpaul3&langs_count=30&layout=compact&hide=html,css&card_width=317)](https://github.com/anuraghazra/github-readme-stats) <img src="https://github.githubassets.com/images/mona-whisper.gif" title="mona-whisper"> <br>
 ### Since May 7 2021... <br>
   [![wakatime](https://wakatime.com/badge/user/f164221c-a1d7-4aec-a719-e8aaa35d2527.svg)](https://wakatime.com/@f164221c-a1d7-4aec-a719-e8aaa35d2527) <br>
-  [![mathpaul3's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@mathpaul3)](https://github.com/anuraghazra/github-readme-stats)
+  [![mathpaul3's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@mathpaul3)](https://wakatime.com/@mathpaul3)
 
 
 
