@@ -19,10 +19,11 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/NewTux.svg" width="27px;" height="30px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" width="25px" height="30px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="25px" height="30px" />
+  <img src="https://github.com/mathpaul3/mathpaul3/blob/main/docker.svg" width="30px" height="30px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="30px" height="22px" />
   <img src="https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png" width="25px" height="30px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="30px" height="30px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width"30px" height="30px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="30px" height="30px" />
   
 <span />
   
