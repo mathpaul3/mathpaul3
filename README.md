@@ -57,8 +57,8 @@
 
 ## Working History
 #### >>> 
-  > `Developer` at **_(주)유닛스터디_** (2021 ~ 2021)\
- `Python`, `Web Lecturer` at **_유닛소프트코딩강남학원_** (2021 ~ 2021)
+  > `Fullstack Web Developer` at **_(주)유닛스터디_** (2021 ~ 2021)\
+ `Python Lecturer` at **_유닛소프트코딩강남학원_** (2021 ~ 2021)
 <br>
 <br><br>
 
