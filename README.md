@@ -1,67 +1,88 @@
-# About me
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=mathpaul3&fontSize=70&animation=twinkling)  
+[![wakatime](https://wakatime.com/badge/user/f164221c-a1d7-4aec-a719-e8aaa35d2527.svg)](https://wakatime.com/@f164221c-a1d7-4aec-a719-e8aaa35d2527)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmathpaul3%2Fhit-counter&count_bg=%238977AD&title_bg=%23333333&icon=github.svg&icon_color=%23E7E7E7&title=visitor&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<br>
+
+
+<div align="center">
 
 ## Available Skills
-<span>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" width="33px;" height="33px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="27px;" height="30px;" />
-  <img src="https://github.com/mathpaul3/mathpaul3/blob/main/C.png" width="34px;" height="34px" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="25px;" height="34px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="30px;" height="30px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" width="30px;" height="30px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg" width="30px;" height="30px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="30px;" height="30px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="30px;" height="30px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="30px;" height="25px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" width="30px;" height="30px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="30px;" height="30px" />
-  <img src="https://github.com/mathpaul3/mathpaul3/blob/main/mongodb.svg" width="30px;" height="30px" />
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-svg-vector.svg" width="40px;" height="40px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/NewTux.svg" width="27px;" height="30px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" width="25px" height="30px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="25px" height="30px" />
-  <img src="https://github.com/mathpaul3/mathpaul3/blob/main/docker.svg" width="30px" height="30px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="30px" height="22px" />
-  <img src="https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png" width="25px" height="30px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="30px" height="30px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="30px" height="30px" />
-  
-<span />
-  
-- 한국어(Korean) --- *native*
-- English(English)
-- 日本語(Japanese)
-- 中文 简体·繁体(Simplified & Traditional Chinese)
-<br>
-  
-  
-## Interested in
-- Web development (full stack)
-- Competitive Programming
-- Natural Language Processing
-- Image Processing
-- 2D Game development
+
+🇰🇷 🇯🇵 🇺🇸 🇨🇳 🇹🇼 🇷🇺 🇪🇸
+
 <br>
 
-## Academic career
-#### >>> `Freshman representative` at Department of AI convergence, Soongsil Univ. (2021 ~ )
+![Python](https://img.shields.io/badge/python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)
+![C](https://img.shields.io/badge/c-A8B9CC.svg?&style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c%2B%2B-00599C.svg?&style=flat-square&logo=c%2B%2B&logoColor=white)
+![JAVA](https://img.shields.io/badge/java-007396.svg?&style=flat-square&logo=java&logoColor=white)
+
+![Vue.js](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=flat-square&logo=vue.js&logoColor=white)
+![React.js](https://img.shields.io/badge/react.js-61DAFB.svg?&style=flat-square&logo=react&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/html-E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-1572B6.svg?&style=flat-square&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/scss-CC6699.svg?&style=flat-square&logo=sass&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-000000.svg?&style=flat-square&logo=markdown&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/node.js-339933.svg?&style=flat-square&logo=node.js&logoColor=white)
+![Nodemon](https://img.shields.io/badge/nodemon-76D04B.svg?&style=flat-square&logo=nodemon&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/mongodb-47A248.svg?&style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=flat-square&logo=mysql&logoColor=white)
+
+![ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?&style=flat-square&logo=ubuntu&logoColor=white)
+![nginx](https://img.shields.io/badge/nginx-009639.svg?&style=flat-square&logo=nginx&logoColor=white)
+![apache](https://img.shields.io/badge/apache-D22128.svg?&style=flat-square&logo=apache&logoColor=white)
+![apache tomcat](https://img.shields.io/badge/apache%20tomcat-F8DC75.svg?&style=flat-square&logo=apache%20tomcat&logoColor=white)
+![VIM](https://img.shields.io/badge/vim-019733.svg?&style=flat-square&logo=vim&logoColor=white)
+![Shellscript](https://img.shields.io/badge/shellscript-5391FE.svg?&style=flat-square&logo=powershell&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?&style=flat-square&logo=docker&logoColor=white)
+
+![Arduino](https://img.shields.io/badge/arduino-00979D.svg?&style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/raspberry%20pi-A22846.svg?&style=flat-square&logo=raspberry%20pi&logoColor=white)
+
+![Tensorflow](https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-5C3EE8.svg?&style=flat-square&logo=opencv&logoColor=white)
+<br>
+<br><br>
+
+## Academic career  
+#### >>> `Departmental student representative` at Department of AI convergence, Soongsil University (2021 ~ )
 > Department of Hacking Defense, KDMHS 17th (2019 ~ 2021)\
  Department of English & Chinese, IFLHS 34th (2018 ~ 2019)
 <br>
+<br><br>
 
-## Working History
-#### >>> `Developer` at **_(주)유닛스터디_** (2021 ~ )
-#### >>> `Python`, `Web Lecturer` at **_유닛소프트코딩강남학원_** (2021 ~ )
+## Working History  
+#### >>>  -
+> `Fullstack Web Developer` at **_(주)유닛스터디_** (2021 ~ 2021)\
+`Python Lecturer` at **_유닛소프트코딩강남학원_** (2021 ~ 2021)
 <br>
+<br><br>
 
+## Interested in
+- **Web development**
+- **Natural Language Processing**
+- Image Processing
+- Competitive Programming
+- Game development
+<br>
+<br><br>
 
-## My programming stats <br>
-  [![mathpaul3's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathpaul3&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathpaul3&langs_count=30&layout=compact&hide=html,css&card_width=317)](https://github.com/anuraghazra/github-readme-stats) <img src="https://github.githubassets.com/images/mona-whisper.gif" title="mona-whisper"> <br>
-### Since May 7 2021... <br>
-  [![wakatime](https://wakatime.com/badge/user/f164221c-a1d7-4aec-a719-e8aaa35d2527.svg)](https://wakatime.com/@f164221c-a1d7-4aec-a719-e8aaa35d2527) <br>
-  [![mathpaul3's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@mathpaul3)](https://wakatime.com/@mathpaul3)
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
+## Programming stats 
 
+[![mathpaul3's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathpaul3&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathpaul3&langs_count=30&layout=compact&hide=html,css&card_width=317)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github.githubassets.com/images/mona-whisper.gif" title="mona-whisper"> <br>
+
+    ✩‧  ₊˚ *  .⋆  ·ฺ⁺˚    Since May 7 2021...    * ⋆ ·ฺ.  ✩* . ⋆·ฺ
+  
+[![mathpaul3's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@mathpaul3)](https://wakatime.com/@mathpaul3)
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+
+</div>
 
 
 
