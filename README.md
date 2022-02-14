@@ -57,7 +57,7 @@
 
 ## Working History
 #### >>> 
-  > `Fullstack Web Developer` at **_(주)유닛스터디_** (2021 ~ 2021)\
+> `Fullstack Web Developer` at **_(주)유닛스터디_** (2021 ~ 2021)\
  `Python Lecturer` at **_유닛소프트코딩강남학원_** (2021 ~ 2021)
 <br>
 <br><br>
@@ -73,13 +73,11 @@
 
 ## Programming stats 
 
-[![mathpaul3's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathpaul3&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathpaul3&langs_count=30&layout=compact&hide=html,css&card_width=317)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github.githubassets.com/images/mona-whisper.gif" title="mona-whisper"> <br>
+[![mathpaul3's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathpaul3&count_private=true&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 
     ✩‧  ₊˚ *  .⋆  ·ฺ⁺˚    Since May 7 2021...    * ⋆ ·ฺ.  ✩* . ⋆·ฺ
   
-[![mathpaul3's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@mathpaul3)](https://wakatime.com/@mathpaul3)
+[![mathpaul3's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@mathpaul3&layout=compact&theme=gruvbox)](https://wakatime.com/@mathpaul3)
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 </div>
