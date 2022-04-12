@@ -73,14 +73,15 @@
 
 ## Programming stats 
 
-[![mathpaul3's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathpaul3&count_private=true&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![mathpaul3's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathpaul3&count_private=true&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mathpaul3)](https://solved.ac/mathpaul3)  
+
 
     ✩‧  ₊˚ *  .⋆  ·ฺ⁺˚    Since May 7 2021...    * ⋆ ·ฺ.  ✩* . ⋆·ฺ
   
 [![mathpaul3's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@mathpaul3&layout=compact&theme=gruvbox)](https://wakatime.com/@mathpaul3)
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- https://github.com/anuraghazra/github-readme-stats -->  
 
 </div>
 
