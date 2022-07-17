@@ -66,10 +66,12 @@
 
 ## Interested in
 - **Web development**
+- **Hacking (Web, System)**
 - **Natural Language Processing**
 - Image Processing
 - Competitive Programming
 - Game development
+
 <br>
 <br><br> 
 
