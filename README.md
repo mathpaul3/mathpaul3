@@ -78,8 +78,7 @@
 ## Programming stats 
 
 [![mathpaul3's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathpaul3&count_private=true&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mathpaul3)](https://solved.ac/mathpaul3)  
+[![solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mathpaul3)](https://solved.ac/mathpaul3)
 
 
     ✩‧  ₊˚ *  .⋆  ·ฺ⁺˚    Since May 7 2021...    * ⋆ ·ฺ.  ✩* . ⋆·ฺ
