@@ -46,10 +46,11 @@
 <br><br>
 
 ## Academic career  
-#### >>> `trainee` at SW maestro 13th (2022.04 ~ )
+
 #### >>> `student` at Double major in Electronic Engineering, Soongsil University (2022.03 ~ )
 #### >>> `Departmental student representative` at Department of AI convergence, Soongsil University (2021.03 ~ )
-> Department of Hacking Defense, KDMHS 17th (2019.04 ~ 2021.01)\
+>  `graduate` of SW maestro 13th (2022.04 ~ 2022.12)\
+ Department of Hacking Defense, KDMHS 17th (2019.04 ~ 2021.01)\
  Department of English & Chinese, IFLHS 34th (2018.03 ~ 2019.03)
 <br>
 <br><br>
