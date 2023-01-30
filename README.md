@@ -19,7 +19,7 @@
 ![JAVA](https://img.shields.io/badge/java-007396.svg?&style=flat-square&logo=java&logoColor=white)
 ![Shellscript](https://img.shields.io/badge/shellscript-5391FE.svg?&style=flat-square&logo=powershell&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-000000.svg?&style=flat-square&logo=markdown&logoColor=white)
-
+ 
 ![Vue.js](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=flat-square&logo=vue.js&logoColor=white)
 ![React.js](https://img.shields.io/badge/react.js-61DAFB.svg?&style=flat-square&logo=react&logoColor=white)
 ![Typescript](https://img.shields.io/badge/typescript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
