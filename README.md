@@ -56,7 +56,7 @@
 <br><br>
 
 ## Working History
-#### >>> `Frontend App Developer` at **_복덕빵_** (2023.02 ~ )
+#### >>> `App Frontend Developer` at **_복덕빵_** (2023.02 ~ )
 > `Fullstack Web Developer` at **_(주)유닛스터디_** (2021.08 ~ 2021.12)\
  `Python Lecturer` at **_유닛소프트코딩강남학원_** (2021.07 ~ 2021.08)
 <br>
