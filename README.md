@@ -13,35 +13,37 @@
 
 <br>
 
-![Python](https://img.shields.io/badge/python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)
-![C](https://img.shields.io/badge/c-A8B9CC.svg?&style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c%2B%2B-00599C.svg?&style=flat-square&logo=c%2B%2B&logoColor=white)
-![JAVA](https://img.shields.io/badge/java-007396.svg?&style=flat-square&logo=java&logoColor=white)
-![Shellscript](https://img.shields.io/badge/shellscript-5391FE.svg?&style=flat-square&logo=powershell&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-000000.svg?&style=flat-square&logo=markdown&logoColor=white)
- 
-![Vue.js](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=flat-square&logo=vue.js&logoColor=white)
-![React.js](https://img.shields.io/badge/react.js-61DAFB.svg?&style=flat-square&logo=react&logoColor=white)
-![Typescript](https://img.shields.io/badge/typescript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![Javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=white)
-![HTML](https://img.shields.io/badge/html-E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-1572B6.svg?&style=flat-square&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/scss-CC6699.svg?&style=flat-square&logo=sass&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?&style=flat-square&logo=c%2B%2B&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=java&logoColor=white)
+![Shellscript](https://img.shields.io/badge/Shellscript-5391FE.svg?&style=flat-square&logo=powershell&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000.svg?&style=flat-square&logo=markdown&logoColor=white)
 
-![Express.js](https://img.shields.io/badge/express.js-404d59.svg?&style=flat-square&logo=express&logoColor=61DAFB)
+![ReactNative](https://img.shields.io/badge/React%20Native-61DAFB.svg?style=flat-square&logo=react&logoColor=black)
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=flat-square&logo=vue.js&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-61DAFB.svg?&style=flat-square&logo=react&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6.svg?&style=flat-square&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699.svg?&style=flat-square&logo=sass&logoColor=white)
+
+![Express.js](https://img.shields.io/badge/Express.js-404d59.svg?&style=flat-square&logo=express&logoColor=61DAFB)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?&style=flat-square&logo=spring&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-47A248.svg?&style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=mysql&logoColor=white)
 
 ![nginx](https://img.shields.io/badge/nginx-009639.svg?&style=flat-square&logo=nginx&logoColor=white)
-![apache tomcat](https://img.shields.io/badge/apache%20tomcat-F8DC75.svg?&style=flat-square&logo=apache%20tomcat&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-2496ED.svg?&style=flat-square&logo=docker&logoColor=white)
+![apache tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75.svg?&style=flat-square&logo=apache%20tomcat&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat-square&logo=docker&logoColor=white)
 
-![Arduino](https://img.shields.io/badge/arduino-00979D.svg?&style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/raspberry%20pi-A22846.svg?&style=flat-square&logo=raspberry%20pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?&style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?&style=flat-square&logo=raspberry%20pi&logoColor=white)
 
-![Tensorflow](https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-5C3EE8.svg?&style=flat-square&logo=opencv&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat-square&logo=opencv&logoColor=white)
 <br>
 <br><br>
 
@@ -56,8 +58,9 @@
 <br><br>
 
 ## Working History
-#### >>> `Frontend App Developer` at **_복덕빵_** (2023.02 ~ )
-> `Fullstack Web Developer` at **_(주)유닛스터디_** (2021.08 ~ 2021.12)\
+#### >>> 
+> `Frontend App Developer` at **_복덕빵_** (2023.02 ~ 2023.03)\
+ `Fullstack Web Developer` at **_(주)유닛스터디_** (2021.08 ~ 2021.12)\
  `Python Lecturer` at **_유닛소프트코딩강남학원_** (2021.07 ~ 2021.08)
 <br>
 <br><br>
