@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=mathpaul3&fontSize=70&animation=twinkling)  
 [![wakatime](https://wakatime.com/badge/user/f164221c-a1d7-4aec-a719-e8aaa35d2527.svg)](https://wakatime.com/@f164221c-a1d7-4aec-a719-e8aaa35d2527)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmathpaul3%2Fhit-counter&count_bg=%238977AD&title_bg=%23333333&icon=github.svg&icon_color=%23E7E7E7&title=visitor&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmathpaul3%2Fhit-counter&count_bg=%238977AD&title_bg=%23333333&icon=github.svg&icon_color=%23E7E7E7&title=visitor&edge_flat=false)](https://hits.seeyoufarm.com)  
+[![launchpad](https://img.shields.io/badge/Launchpad-F8C300.svg?&style=social&logo=launchpad&logoColor=F8C300)](https://launchpad.net/~mathpaul3)
 
 <br>
 
@@ -65,7 +66,7 @@
 <br><br>
 
 ## Experiences
-#### >>> `Ubuntu Korean Translator` at **_우분투 한국어 번역팀_** (2023.05 ~ )  
+#### >>>   
 > `Frontend App Developer` at **_복덕빵_** (2023.02 ~ 2023.03)\
  `Fullstack Web Developer` at **_(주)유닛스터디_** (2021.08 ~ 2021.12)\
  `Python Lecturer` at **_유닛소프트코딩강남학원_** (2021.07 ~ 2021.08)
