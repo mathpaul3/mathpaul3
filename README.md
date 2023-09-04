@@ -66,9 +66,9 @@
 <br><br>
 
 ## Experiences
-#### >>> `Research Student` at [**_VIS Lab_**](http://vis.ssu.ac.kr/) (2023.07 ~ )
-#### >>> `Summer Intern` at [**_HUMANE Lab_**](https://ssu-humane.github.io/) (2023.07 ~ )
-> `Frontend App Developer` at **_복덕빵_** (2023.02 ~ 2023.03)\
+#### >>> `Data Visualization Research Student` at [**_VIS Lab_**](http://vis.ssu.ac.kr/) (2023.07 ~ )
+> `Summer Intern for NLP` at [**_HUMANE Lab_**](https://ssu-humane.github.io/) (2023.07 ~ 2023.08)\
+ `Frontend App Developer` at **_복덕빵_** (2023.02 ~ 2023.03)\
  `Fullstack Web Developer` at **_(주)유닛스터디_** (2021.08 ~ 2021.12)\
  `Python Lecturer` at **_유닛소프트코딩강남학원_** (2021.07 ~ 2021.08)
 <br>
