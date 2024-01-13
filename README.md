@@ -59,46 +59,8 @@
 
 <br>
 <br><br>
-
-## Academic career  
-
-#### >>> `student` at Double major in Electronic Engineering, Soongsil University (2022.03 ~ )
-#### >>> `Departmental student representative` at Department of AI convergence, Soongsil University (2021.03 ~ )
->  Department of Hacking Defense, KDMHS 17th (2019.04 ~ 2021.01)\
- Department of English & Chinese, IFLHS 34th (2018.03 ~ 2019.03)
-<br>
-<br><br>
-
-## Experiences
-#### >>> `Data Visualization Research Student` at [**_VIS Lab_**](http://vis.ssu.ac.kr/) (2023.07 ~ )
-> `NLP Summer Intern` at [**_HUMANE Lab_**](https://ssu-humane.github.io/) (2023.07 ~ 2023.08)\
- `13th graduate` at **_SW maestro_** (2022.04 ~ 2022.12)\
- `Fullstack Web Developer` at **_(주)유닛스터디_** (2021.08 ~ 2021.12)\
- `Python Lecturer` at **_유닛소프트코딩강남학원_** (2021.07 ~ 2021.08)
-<br>
-<br><br>
-
-## Interested in
-- **Web development**
-- **Hacking (Web, System)**
-- **Natural Language Processing**
-- Image Processing
-- Competitive Programming
-- Game development
-
-<br>
-<br><br> 
-
+ 
 ## Programming stats 
-
-[![mathpaul3's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathpaul3&count_private=true&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mathpaul3)](https://solved.ac/mathpaul3)
-
-
-    ✩‧  ₊˚ *  .⋆  ·ฺ⁺˚    Since May 7 2021...    * ⋆ ·ฺ.  ✩* . ⋆·ฺ
-
-<!-- [![mathpaul3's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@mathpaul3&layout=compact&theme=gruvbox)](https://wakatime.com/@mathpaul3) -->
-<!-- https://github.com/anuraghazra/github-readme-stats -->  
 
  <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue)
@@ -137,8 +99,8 @@ Mac                      40 hrs 39 mins      ███████████�
 
  Last Updated on 2024/01/13/ 16:35:54 UTC
 <!--END_SECTION:waka-->
-</div>
 
+</div>
 
 
 
