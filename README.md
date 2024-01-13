@@ -26,8 +26,9 @@
 ![ReactNative](https://img.shields.io/badge/React%20Native-61DAFB.svg?style=flat-square&logo=react&logoColor=black)
 
 **Frontend**  
-![Vue](https://img.shields.io/badge/Vue-4FC08D.svg?&style=flat-square&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-CB2B39.svg?&style=flat-square&logo=Angular&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D.svg?&style=flat-square&logo=vue.js&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=white)  
 ![HTML](https://img.shields.io/badge/HTML-E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
@@ -50,8 +51,12 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?&style=flat-square&logo=raspberry%20pi&logoColor=white)
 
 **AI**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat-square&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E.svg?&style=flat-square&logo=scikitlearn&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat-square&logo=opencv&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000.svg?&style=flat-square&logo=Keras&logoColor=white)
+
 <br>
 <br><br>
 
@@ -59,8 +64,7 @@
 
 #### >>> `student` at Double major in Electronic Engineering, Soongsil University (2022.03 ~ )
 #### >>> `Departmental student representative` at Department of AI convergence, Soongsil University (2021.03 ~ )
->  `graduate` of SW maestro 13th (2022.04 ~ 2022.12)\
- Department of Hacking Defense, KDMHS 17th (2019.04 ~ 2021.01)\
+>  Department of Hacking Defense, KDMHS 17th (2019.04 ~ 2021.01)\
  Department of English & Chinese, IFLHS 34th (2018.03 ~ 2019.03)
 <br>
 <br><br>
@@ -69,6 +73,7 @@
 #### >>> `Data Visualization Research Student` at [**_VIS Lab_**](http://vis.ssu.ac.kr/) (2023.07 ~ )
 > `NLP Summer Intern` at [**_HUMANE Lab_**](https://ssu-humane.github.io/) (2023.07 ~ 2023.08)\
  `Frontend App Developer` at **_복덕빵_** (2023.02 ~ 2023.03)\
+ `13th graduate` at **_SW maestro_** (2022.04 ~ 2022.12)\
  `Fullstack Web Developer` at **_(주)유닛스터디_** (2021.08 ~ 2021.12)\
  `Python Lecturer` at **_유닛소프트코딩강남학원_** (2021.07 ~ 2021.08)
 <br>
