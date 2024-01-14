@@ -2,6 +2,7 @@
 [![wakatime](https://wakatime.com/badge/user/f164221c-a1d7-4aec-a719-e8aaa35d2527.svg)](https://wakatime.com/@f164221c-a1d7-4aec-a719-e8aaa35d2527)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmathpaul3%2Fhit-counter&count_bg=%238977AD&title_bg=%23333333&icon=github.svg&icon_color=%23E7E7E7&title=visitor&edge_flat=false)](https://hits.seeyoufarm.com)  
 [![launchpad](https://img.shields.io/badge/Launchpad-F8C300.svg?&style=social&logo=launchpad&logoColor=F8C300)](https://launchpad.net/~mathpaul3)
+[![Notion](https://img.shields.io/badge/Portfolio-F8C300.svg?&style=social&logo=notion&logoColor=000000)](https://mathpaul3.notion.site/3f9d873a6fcb41f5b066a477dfeaf87b?pvs=4)
 
 <br>
 
