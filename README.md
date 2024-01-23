@@ -46,6 +46,7 @@
 ![nginx](https://img.shields.io/badge/nginx-009639.svg?&style=flat-square&logo=nginx&logoColor=white)
 ![apache tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75.svg?&style=flat-square&logo=apache%20tomcat&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat-square&logo=docker&logoColor=white)
+![Github Actions](https://img.shields.io/badge/Github_Actions-2088FF.svg?&style=flat-square&logo=githubactions&logoColor=white)
 
 **Embedded**  
 ![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?&style=flat-square&logo=arduino&logoColor=white)
