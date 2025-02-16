@@ -11,7 +11,7 @@
 
 ## Available Skills
 
-🇰🇷 🇯🇵 🇺🇸 🇨🇳 🇹🇼 🇷🇺 🇪🇸
+🇰🇷 🇯🇵 🇺🇸 🇨🇳 🇹🇼 🇷🇺
 
 <br>
 
@@ -39,8 +39,10 @@
 **Backend & DB**  
 ![Express.js](https://img.shields.io/badge/Express.js-404d59.svg?&style=flat-square&logo=express&logoColor=61DAFB)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?&style=flat-square&logo=spring&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?&style=flat-square&logo=fastapi&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438.svg?&style=flat-square&logo=redis&logoColor=white)
 
 **Infra**  
 ![nginx](https://img.shields.io/badge/nginx-009639.svg?&style=flat-square&logo=nginx&logoColor=white)
