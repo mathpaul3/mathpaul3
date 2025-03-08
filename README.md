@@ -46,9 +46,10 @@
 
 **Infra**  
 ![nginx](https://img.shields.io/badge/nginx-009639.svg?&style=flat-square&logo=nginx&logoColor=white)
-![apache tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75.svg?&style=flat-square&logo=apache%20tomcat&logoColor=white)
+![apache tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75.svg?&style=flat-square&logo=apache%20tomcat&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat-square&logo=docker&logoColor=white)
 ![Github Actions](https://img.shields.io/badge/Github_Actions-2088FF.svg?&style=flat-square&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?style=flat-square&logo=amazonwebservices&logoColor=white)
 
 **Embedded**  
 ![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?&style=flat-square&logo=arduino&logoColor=white)
@@ -56,9 +57,9 @@
 
 **AI**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat-square&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E.svg?&style=flat-square&logo=scikitlearn&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=flat-square&logo=tensorflow&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=flat-square&logo=tensorflow&logoColor=white)  
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat-square&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E.svg?&style=flat-square&logo=scikitlearn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000.svg?&style=flat-square&logo=Keras&logoColor=white)
 
 <br>
