@@ -70,33 +70,8 @@
  <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.3%20million%20lines%20of%20code-blue)
 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                310 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-🌆 Daytime                613 commits         ████████░░░░░░░░░░░░░░░░░   30.93 % 
-🌃 Evening                545 commits         ███████░░░░░░░░░░░░░░░░░░   27.50 % 
-🌙 Night                  514 commits         ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 2025/08/04/ 18:59:07 UTC
+ Last Updated on 2025/08/05/ 19:00:40 UTC
 <!--END_SECTION:waka-->
 
 </div>
