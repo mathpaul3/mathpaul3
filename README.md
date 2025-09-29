@@ -68,10 +68,36 @@
 ## Programming stats 
 
  <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                323 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+🌆 Daytime                632 commits         ████████░░░░░░░░░░░░░░░░░   30.95 % 
+🌃 Evening                555 commits         ███████░░░░░░░░░░░░░░░░░░   27.18 % 
+🌙 Night                  532 commits         ███████░░░░░░░░░░░░░░░░░░   26.05 % 
+```
 
 
- Last Updated on 2025/09/28/ 18:45:21 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+TypeScript               26 mins             █████████████████████░░░░   85.67 % 
+JSON                     4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+
+🔥 Editors: 
+VS Code                  31 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      31 mins             █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 2025/09/29/ 18:50:41 UTC
 <!--END_SECTION:waka-->
 
 </div>
