@@ -86,17 +86,17 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 2025/10/29/ 18:52:25 UTC
+ Last Updated on 2025/10/30/ 18:53:05 UTC
 <!--END_SECTION:waka-->
 
 </div>
