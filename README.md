@@ -68,7 +68,7 @@
 ## Programming stats 
 
  <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.97%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.97%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -99,7 +99,7 @@ Mac                      11 mins             ███████████�
 ```
 
 
- Last Updated on 2026/01/04/ 18:53:19 UTC
+ Last Updated on 2026/01/05/ 18:58:18 UTC
 <!--END_SECTION:waka-->
 
 </div>
