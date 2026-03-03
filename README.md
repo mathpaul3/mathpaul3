@@ -86,21 +86,17 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Kotlin                   5 mins              ██████████████████░░░░░░░   73.83 % 
-C++                      0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-JSON                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-Markdown                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 2026/03/02/ 19:23:04 UTC
+ Last Updated on 2026/03/03/ 19:26:31 UTC
 <!--END_SECTION:waka-->
 
 </div>
