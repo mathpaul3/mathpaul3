@@ -86,17 +86,21 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java Properties          10 mins             ███████████████░░░░░░░░░░   60.33 % 
+Kotlin                   3 mins              █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
+Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+textmate                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            17 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      17 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2026/03/03/ 19:26:31 UTC
+ Last Updated on 2026/03/04/ 19:23:35 UTC
 <!--END_SECTION:waka-->
 
 </div>
