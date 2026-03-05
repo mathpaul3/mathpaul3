@@ -86,21 +86,21 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java Properties          10 mins             ███████████████░░░░░░░░░░   60.33 % 
-Kotlin                   3 mins              █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
-Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-textmate                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Kotlin                   43 mins             █████████████████░░░░░░░░   67.49 % 
+Java Properties          10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+YAML                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 🔥 Editors: 
-IntelliJ IDEA            17 mins             █████████████████████████   100.00 % 
+IntelliJ IDEA            1 hr 3 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      17 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2026/03/04/ 19:23:35 UTC
+ Last Updated on 2026/03/05/ 19:45:56 UTC
 <!--END_SECTION:waka-->
 
 </div>
