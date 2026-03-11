@@ -86,21 +86,21 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Kotlin                   1 hr 5 mins         ████████████████░░░░░░░░░   64.37 % 
-YAML                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-Java Properties          11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-SQL                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Kotlin                   1 hr 1 min          ██████████████████░░░░░░░   73.54 % 
+YAML                     15 mins             █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+SQL                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 41 mins        █████████████████████████   100.00 % 
+IntelliJ IDEA            1 hr 23 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 41 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 23 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2026/03/10/ 19:23:50 UTC
+ Last Updated on 2026/03/11/ 19:27:09 UTC
 <!--END_SECTION:waka-->
 
 </div>
