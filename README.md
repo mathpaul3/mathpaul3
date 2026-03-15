@@ -86,17 +86,17 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-YAML                     0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 2026/03/14/ 19:05:25 UTC
+ Last Updated on 2026/03/15/ 19:06:44 UTC
 <!--END_SECTION:waka-->
 
 </div>
