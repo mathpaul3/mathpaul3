@@ -86,17 +86,22 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-SQL                      0 secs              █████████████████████████   100.00 % 
+TypeScript               7 mins              ████████████████████████░   96.08 % 
+SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 🔥 Editors: 
-IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
+VS Code                  7 mins              █████████████████████████   99.33 % 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+Mac                      8 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2026/03/20/ 19:23:07 UTC
+ Last Updated on 2026/03/21/ 19:02:29 UTC
 <!--END_SECTION:waka-->
 
 </div>
