@@ -68,15 +68,15 @@
 ## Programming stats 
 
  <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.32%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.34%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-🌆 Daytime                665 commits         ███████░░░░░░░░░░░░░░░░░░   29.74 % 
-🌃 Evening                692 commits         ████████░░░░░░░░░░░░░░░░░   30.95 % 
-🌙 Night                  575 commits         ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
+🌞 Morning                304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+🌆 Daytime                665 commits         ███████░░░░░░░░░░░░░░░░░░   29.60 % 
+🌃 Evening                701 commits         ████████░░░░░░░░░░░░░░░░░   31.20 % 
+🌙 Night                  577 commits         ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
 ```
 
 
@@ -86,22 +86,22 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    20 hrs 43 mins      ████████████████░░░░░░░░░   65.24 % 
-Markdown                 3 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-Kotlin                   2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-TypeScript               2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-YAML                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Other                    22 hrs 25 mins      ███████████████░░░░░░░░░░   58.25 % 
+TypeScript               5 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Markdown                 4 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Kotlin                   3 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+YAML                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 
 🔥 Editors: 
-VS Code                  30 hrs 14 mins      ████████████████████████░   95.18 % 
-IntelliJ IDEA            1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+VS Code                  36 hrs 57 mins      ████████████████████████░   96.02 % 
+IntelliJ IDEA            1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 
 💻 Operating System: 
-Mac                      31 hrs 46 mins      █████████████████████████   100.00 % 
+Mac                      38 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2026/04/11/ 19:21:55 UTC
+ Last Updated on 2026/04/12/ 19:24:36 UTC
 <!--END_SECTION:waka-->
 
 </div>
