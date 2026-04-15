@@ -86,22 +86,22 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    16 hrs 37 mins      ████████████░░░░░░░░░░░░░   49.93 % 
-TypeScript               5 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-Kotlin                   4 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Markdown                 4 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-YAML                     37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Other                    13 hrs 45 mins      ████████████░░░░░░░░░░░░░   48.49 % 
+TypeScript               5 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
+Markdown                 3 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Kotlin                   3 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+YAML                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 
 🔥 Editors: 
-VS Code                  30 hrs 31 mins      ███████████████████████░░   91.68 % 
-IntelliJ IDEA            2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+VS Code                  26 hrs 40 mins      ████████████████████████░   94.08 % 
+IntelliJ IDEA            1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
 
 💻 Operating System: 
-Mac                      33 hrs 17 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2026/04/14/ 19:50:51 UTC
+ Last Updated on 2026/04/15/ 19:51:07 UTC
 <!--END_SECTION:waka-->
 
 </div>
