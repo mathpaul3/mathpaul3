@@ -68,15 +68,15 @@
 ## Programming stats 
 
  <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.65%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.66%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                320 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-🌆 Daytime                755 commits         ███████░░░░░░░░░░░░░░░░░░   29.31 % 
-🌃 Evening                835 commits         ████████░░░░░░░░░░░░░░░░░   32.41 % 
-🌙 Night                  666 commits         ██████░░░░░░░░░░░░░░░░░░░   25.85 % 
+🌞 Morning                332 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+🌆 Daytime                764 commits         ███████░░░░░░░░░░░░░░░░░░   29.42 % 
+🌃 Evening                835 commits         ████████░░░░░░░░░░░░░░░░░   32.15 % 
+🌙 Night                  666 commits         ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
 ```
 
 
@@ -86,22 +86,22 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 1 hr 36 mins        ██████████░░░░░░░░░░░░░░░   40.01 % 
-Kotlin                   1 hr 3 mins         ███████░░░░░░░░░░░░░░░░░░   26.54 % 
-Other                    57 mins             ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
-YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Markdown                 2 hrs 6 mins        ████████████░░░░░░░░░░░░░   46.54 % 
+Kotlin                   1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
+Other                    59 mins             █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
+YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 43 mins       ███████████████████████░░   92.91 % 
-Unknown Editor           17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+VS Code                  4 hrs 15 mins       ███████████████████████░░   93.74 % 
+Unknown Editor           17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
 
 💻 Operating System: 
-Mac                      4 hrs               █████████████████████████   100.00 % 
+Mac                      4 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2026/04/23/ 19:52:33 UTC
+ Last Updated on 2026/04/24/ 19:32:55 UTC
 <!--END_SECTION:waka-->
 
 </div>
