@@ -73,10 +73,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                320 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-🌆 Daytime                771 commits         ████████░░░░░░░░░░░░░░░░░   30.75 % 
-🌃 Evening                826 commits         ████████░░░░░░░░░░░░░░░░░   32.95 % 
-🌙 Night                  590 commits         ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+🌞 Morning                320 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+🌆 Daytime                794 commits         ████████░░░░░░░░░░░░░░░░░   31.38 % 
+🌃 Evening                826 commits         ████████░░░░░░░░░░░░░░░░░   32.65 % 
+🌙 Night                  590 commits         ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
 ```
 
 
@@ -86,23 +86,23 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 1 hr 35 mins        ████████████░░░░░░░░░░░░░   46.09 % 
-Kotlin                   48 mins             ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
-Other                    41 mins             █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
-TypeScript               18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Markdown                 1 hr 10 mins        ██████████░░░░░░░░░░░░░░░   38.69 % 
+Kotlin                   48 mins             ███████░░░░░░░░░░░░░░░░░░   26.56 % 
+Other                    41 mins             ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
+TypeScript               18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 🔥 Editors: 
-VS Code                  2 hrs               ██████████████░░░░░░░░░░░   57.98 % 
-Unknown Editor           1 hr 17 mins        █████████░░░░░░░░░░░░░░░░   37.62 % 
-IntelliJ IDEA            9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+VS Code                  1 hr 43 mins        ██████████████░░░░░░░░░░░   57.11 % 
+Unknown Editor           1 hr 9 mins         ██████████░░░░░░░░░░░░░░░   38.18 % 
+IntelliJ IDEA            8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
 
 💻 Operating System: 
-Mac                      3 hrs 27 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2026/05/02/ 19:37:21 UTC
+ Last Updated on 2026/05/03/ 19:36:00 UTC
 <!--END_SECTION:waka-->
 
 </div>
