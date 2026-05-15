@@ -70,39 +70,8 @@
  <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.84%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                348 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-🌆 Daytime                1126 commits        █████████░░░░░░░░░░░░░░░░   34.97 % 
-🌃 Evening                1078 commits        ████████░░░░░░░░░░░░░░░░░   33.48 % 
-🌙 Night                  668 commits         █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Kotlin                   5 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   41.57 % 
-Markdown                 3 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   26.39 % 
-TypeScript               1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-Other                    55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-textmate                 54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-
-🔥 Editors: 
-Unknown Editor           9 hrs 3 mins        ████████████████░░░░░░░░░   64.81 % 
-VS Code                  3 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
-IntelliJ IDEA            1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-
-💻 Operating System: 
-Mac                      13 hrs 57 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 2026/05/14/ 20:17:44 UTC
+ Last Updated on 2026/05/15/ 20:06:04 UTC
 <!--END_SECTION:waka-->
 
 </div>
