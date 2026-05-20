@@ -68,10 +68,39 @@
 ## Programming stats 
 
  <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.15%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.80%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                408 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+🌆 Daytime                2001 commits        ██████████░░░░░░░░░░░░░░░   41.76 % 
+🌃 Evening                1557 commits        ████████░░░░░░░░░░░░░░░░░   32.49 % 
+🌙 Night                  826 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+```
 
 
- Last Updated on 2026/05/19/ 20:17:46 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+Other                    8 mins              ████████░░░░░░░░░░░░░░░░░   33.44 % 
+Python                   7 mins              ███████░░░░░░░░░░░░░░░░░░   28.27 % 
+Markdown                 6 mins              ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
+PHP                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+
+🔥 Editors: 
+VS Code                  25 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      25 mins             █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 2026/05/20/ 20:37:32 UTC
 <!--END_SECTION:waka-->
 
 </div>
