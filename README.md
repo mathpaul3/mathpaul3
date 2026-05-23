@@ -68,41 +68,10 @@
 ## Programming stats 
 
  <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.80%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                408 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-🌆 Daytime                2001 commits        ██████████░░░░░░░░░░░░░░░   41.76 % 
-🌃 Evening                1557 commits        ████████░░░░░░░░░░░░░░░░░   32.49 % 
-🌙 Night                  826 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.62%20million%20lines%20of%20code-blue?style=flat)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Kotlin                   1 hr 58 mins        █████████░░░░░░░░░░░░░░░░   37.01 % 
-Markdown                 1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
-YAML                     59 mins             █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
-TypeScript               34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-JSON                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 54 mins       ███████████████████████░░   91.64 % 
-IntelliJ IDEA            14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-Claude Code              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-
-💻 Operating System: 
-Mac                      5 hrs 20 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 2026/05/22/ 20:23:29 UTC
+ Last Updated on 2026/05/23/ 19:46:35 UTC
 <!--END_SECTION:waka-->
 
 </div>
