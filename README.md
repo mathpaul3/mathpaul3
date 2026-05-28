@@ -68,41 +68,10 @@
 ## Programming stats 
 
  <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.89%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                351 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-🌆 Daytime                1258 commits        ██████████░░░░░░░░░░░░░░░   39.32 % 
-🌃 Evening                951 commits         ███████░░░░░░░░░░░░░░░░░░   29.73 % 
-🌙 Night                  639 commits         █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.92%20million%20lines%20of%20code-blue?style=flat)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Markdown                 12 hrs 42 mins      ███████████░░░░░░░░░░░░░░   44.67 % 
-Python                   4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-Other                    3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Kotlin                   3 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-YAML                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-
-🔥 Editors: 
-VS Code                  27 hrs 54 mins      █████████████████████████   98.04 % 
-Claude Code              27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-IntelliJ IDEA            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-
-💻 Operating System: 
-Mac                      28 hrs 27 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 2026/05/27/ 20:36:40 UTC
+ Last Updated on 2026/05/28/ 20:58:38 UTC
 <!--END_SECTION:waka-->
 
 </div>
