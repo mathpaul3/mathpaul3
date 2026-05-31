@@ -68,15 +68,15 @@
 ## Programming stats 
 
  <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.97%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.96%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                380 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-🌆 Daytime                1323 commits        ██████████░░░░░░░░░░░░░░░   39.52 % 
-🌃 Evening                964 commits         ███████░░░░░░░░░░░░░░░░░░   28.79 % 
-🌙 Night                  681 commits         █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+🌞 Morning                379 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+🌆 Daytime                1324 commits        ██████████░░░░░░░░░░░░░░░   39.61 % 
+🌃 Evening                964 commits         ███████░░░░░░░░░░░░░░░░░░   28.84 % 
+🌙 Night                  676 commits         █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
 ```
 
 
@@ -86,23 +86,22 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 15 hrs 44 mins      █████████████░░░░░░░░░░░░   50.81 % 
-Python                   4 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-Other                    4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Kotlin                   2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-JSON                     1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Markdown                 18 hrs 25 mins      █████████████░░░░░░░░░░░░   53.56 % 
+Other                    5 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Python                   4 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Kotlin                   2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+JSON                     1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 
 🔥 Editors: 
-VS Code                  30 hrs 15 mins      ████████████████████████░   97.66 % 
-Claude Code              43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+VS Code                  33 hrs 39 mins      ████████████████████████░   97.88 % 
+Claude Code              43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 
 💻 Operating System: 
-Mac                      30 hrs 59 mins      █████████████████████████   100.00 % 
+Mac                      34 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2026/05/30/ 19:51:50 UTC
+ Last Updated on 2026/05/31/ 19:52:02 UTC
 <!--END_SECTION:waka-->
 
 </div>
