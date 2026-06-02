@@ -70,38 +70,8 @@
  <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.96%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                379 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-🌆 Daytime                1324 commits        ██████████░░░░░░░░░░░░░░░   39.61 % 
-🌃 Evening                964 commits         ███████░░░░░░░░░░░░░░░░░░   28.84 % 
-🌙 Night                  676 commits         █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Markdown                 23 hrs 59 mins      ███████████████░░░░░░░░░░   59.33 % 
-Other                    5 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-Python                   4 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-Kotlin                   2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-JSON                     1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-
-🔥 Editors: 
-VS Code                  39 hrs 26 mins      ████████████████████████░   97.56 % 
-Claude Code              59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-
-💻 Operating System: 
-Mac                      40 hrs 25 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 2026/06/01/ 21:52:48 UTC
+ Last Updated on 2026/06/02/ 21:35:37 UTC
 <!--END_SECTION:waka-->
 
 </div>
