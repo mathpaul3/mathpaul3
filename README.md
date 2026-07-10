@@ -86,22 +86,22 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 21 hrs 32 mins      ████████████████░░░░░░░░░   65.66 % 
-Other                    6 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
-YAML                     3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-Git Config               22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-HTML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Markdown                 16 hrs 59 mins      ██████████████████░░░░░░░   70.22 % 
+YAML                     3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Other                    3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Git Config               22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-Claude Code              29 hrs 19 mins      ██████████████████████░░░   89.38 % 
-VS Code                  3 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+Claude Code              20 hrs 59 mins      ██████████████████████░░░   86.71 % 
+VS Code                  3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
 
 💻 Operating System: 
-Mac                      32 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2026/07/09/ 20:25:12 UTC
+ Last Updated on 2026/07/10/ 20:02:25 UTC
 <!--END_SECTION:waka-->
 
 </div>
