@@ -74,8 +74,8 @@
 
 ```text
 🌞 Morning                418 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-🌆 Daytime                1419 commits        █████████░░░░░░░░░░░░░░░░   36.49 % 
-🌃 Evening                1220 commits        ████████░░░░░░░░░░░░░░░░░   31.37 % 
+🌆 Daytime                1420 commits        █████████░░░░░░░░░░░░░░░░   36.50 % 
+🌃 Evening                1220 commits        ████████░░░░░░░░░░░░░░░░░   31.36 % 
 🌙 Night                  832 commits         █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
 ```
 
@@ -86,22 +86,22 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 16 hrs 59 mins      ██████████████████░░░░░░░   70.22 % 
-YAML                     3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Other                    3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Git Config               22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Markdown                 14 hrs 27 mins      ███████████████░░░░░░░░░░   61.58 % 
+Other                    4 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
+YAML                     3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+CSV                      23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Docker                   17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 🔥 Editors: 
-Claude Code              20 hrs 59 mins      ██████████████████████░░░   86.71 % 
-VS Code                  3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Claude Code              19 hrs 46 mins      █████████████████████░░░░   84.23 % 
+VS Code                  3 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
 
 💻 Operating System: 
-Mac                      24 hrs 12 mins      █████████████████████████   100.00 % 
+Mac                      23 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2026/07/10/ 20:02:25 UTC
+ Last Updated on 2026/07/11/ 19:45:43 UTC
 <!--END_SECTION:waka-->
 
 </div>
