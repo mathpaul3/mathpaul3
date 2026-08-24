@@ -68,17 +68,17 @@
 ## Programming stats 
 
  <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-281%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-282%20hrs%2036%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.31%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.15%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                536 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-🌆 Daytime                1759 commits        ██████████░░░░░░░░░░░░░░░   38.11 % 
-🌃 Evening                1377 commits        ███████░░░░░░░░░░░░░░░░░░   29.83 % 
-🌙 Night                  944 commits         █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+🌞 Morning                575 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+🌆 Daytime                1819 commits        ██████████░░░░░░░░░░░░░░░   38.14 % 
+🌃 Evening                1397 commits        ███████░░░░░░░░░░░░░░░░░░   29.29 % 
+🌙 Night                  978 commits         █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
 ```
 
 
@@ -88,23 +88,42 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 56 mins        █████████████████████████   99.79 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 39 mins        █████████████████████░░░░   85.14 % 
+Codex Vscode             17 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 57 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 44 mins (37.68%)
+
+✍️ 1,059 lines written by AI, 103 lines written by hand (91.14% AI-written)
+
+🔤 2,169,156 Input Tokens, 52,348 Output Tokens
+
+💵 $15.94 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 15 AI Prompts
+
+GPT                      1,059 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 91.14% of written lines came from AI
+📚 Verbose Prompter — average 2,129 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 11.75% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026/08/23/ 19:02:01 UTC
+ Last Updated on 2026/08/24/ 19:14:51 UTC
 <!--END_SECTION:waka-->
 
 </div>
