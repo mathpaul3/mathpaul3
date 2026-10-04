@@ -70,15 +70,15 @@
  <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-282%20hrs%2036%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-96.17%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-99.15%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4629 commits        ███████░░░░░░░░░░░░░░░░░░   27.45 % 
-🌆 Daytime                5940 commits        █████████░░░░░░░░░░░░░░░░   35.22 % 
-🌃 Evening                2519 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-🌙 Night                  3778 commits        ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
+🌞 Morning                4776 commits        ███████░░░░░░░░░░░░░░░░░░   27.55 % 
+🌆 Daytime                6101 commits        █████████░░░░░░░░░░░░░░░░   35.20 % 
+🌃 Evening                2563 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+🌙 Night                  3894 commits        ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
 ```
 
 
@@ -88,13 +88,13 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -104,7 +104,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 2026/10/03/ 21:55:58 UTC
+ Last Updated on 2026/10/04/ 22:00:03 UTC
 <!--END_SECTION:waka-->
 
 </div>
