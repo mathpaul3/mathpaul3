@@ -68,17 +68,17 @@
 ## Programming stats 
 
  <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-302%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-303%20hrs%2014%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-130.66%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-133.04%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                6373 commits        ███████░░░░░░░░░░░░░░░░░░   28.25 % 
-🌆 Daytime                7876 commits        █████████░░░░░░░░░░░░░░░░   34.91 % 
-🌃 Evening                3102 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-🌙 Night                  5211 commits        ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
+🌞 Morning                6493 commits        ███████░░░░░░░░░░░░░░░░░░   28.30 % 
+🌆 Daytime                8008 commits        █████████░░░░░░░░░░░░░░░░   34.90 % 
+🌃 Evening                3138 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+🌙 Night                  5307 commits        ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
 ```
 
 
@@ -88,46 +88,47 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-YAML                     8 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   39.95 % 
-Markdown                 6 hrs               ███████░░░░░░░░░░░░░░░░░░   29.29 % 
-Other                    4 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-Bash                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-TypeScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+YAML                     7 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   37.80 % 
+Markdown                 5 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   29.11 % 
+Other                    4 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+Bash                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+TypeScript               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 
 🔥 Editors: 
-Claude Code              15 hrs 18 mins      ███████████████████░░░░░░   74.68 % 
-VS Code                  5 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
+Claude Code              14 hrs 48 mins      ███████████████████░░░░░░   75.76 % 
+VS Code                  4 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
 
 💻 Operating System: 
-Mac                      20 hrs 29 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 57 mins      ████████████████████████░   96.96 % 
+Windows                  35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 50 mins (82.17%)
+⏱ AI Coding Time: 15 hrs 57 mins (81.66%)
 
-✍️ 8,114 lines written by AI, 206 lines written by hand (97.52% AI-written)
+✍️ 7,112 lines written by AI, 199 lines written by hand (97.28% AI-written)
 
-🔤 15,125,117 Input Tokens, 2,298,461 Output Tokens
+🔤 14,410,643 Input Tokens, 2,138,015 Output Tokens
 
-💵 $222.12 Estimated AI Cost This Week
+💵 $205.86 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 243 AI Prompts
+🧠 8 AI Sessions, 230 AI Prompts
 
-Opus                     8,214 lines         █████████████████████████   100.00 % 
+Opus                     7,210 lines         █████████████████████████   100.00 % 
 Vscode                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.52% of written lines came from AI
-📚 Verbose Prompter — average 5,932 characters per prompt
-🔁 Iterative Prompter — average 30 prompts per session
-🚀 High AI Trust — 5.39% of changed lines were hand-edited
+🤖 AI-Driven — 97.28% of written lines came from AI
+📚 Verbose Prompter — average 5,992 characters per prompt
+🔁 Iterative Prompter — average 29 prompts per session
+🚀 High AI Trust — 5.99% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026/10/28/ 22:59:42 UTC
+ Last Updated on 2026/10/29/ 23:08:43 UTC
 <!--END_SECTION:waka-->
 
 </div>
